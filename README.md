@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Jonathan</h1>
-<h3 align="center">Desarrollador autodidacta</h3>
+<h3 align="center">Desarrollador web full-stack</h3>
 <p align="left">
 Soy un desarrollador autodidacta y estudiante de Ingenieria en Ciencias y Sistemas apasionado por la tecnología y su desarrollo. Actualmente me encuentro aprendiendo sobre el desarrollo de aplicaciones web con un stack completo MERN y PERN, sin descartar otras tecnologías y frameworks.
 </p>
